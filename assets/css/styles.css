@@ -672,6 +672,7 @@ a {
 
 .footer .row {
     display: flex;
+    justify-content: center;
     border-bottom: solid 1px #59554b;
     padding-bottom: 38px;
 }
